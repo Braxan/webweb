@@ -1,0 +1,22 @@
+{
+  "name": "webweb",
+  "version": "1.0.0",
+  "description": "My New Mega Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Braxan/webweb.git"
+  },
+  "author": "Emil Erlandsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Braxan/webweb/issues"
+  },
+  "homepage": "https://github.com/Braxan/webweb#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
